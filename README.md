@@ -1,6 +1,7 @@
 Set the database from settings.py
 
 To migrate the database open terminal in project directory and type
+
 python manage.py makemigrations
 python manage.py migrate
 
